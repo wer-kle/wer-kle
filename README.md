@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Weronika!
-
-I'm a **Research Assistant** and a **PhD Candidate** at Warsaw University of Life Sciences.
+# Hi there 👋, I'm Weronika.
 
 ### 🧬 What I do
 - I'm teaching **bioinformatics analyses in genomics** ([ABwBG repository](https://github.com/wer-kle/ABwBG)) and **population genetics**.
