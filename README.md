@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Weronika.
 
+I'm currently a postdoc at **Jocelyn Poissant's lab** at UCalgary.
+
 ### 🧬 What I do
-- I'm teaching **bioinformatics analyses in genomics** ([ABwBG repository](https://github.com/wer-kle/ABwBG)) and **population genetics**.
-- My research interests focus on **evolutionary biology**, with a special interest in **environmental adaptation mechanisms**.
-- Currently, I'm working on **precision phenotyping methods** in horses and cattle using **[DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)**.
+- I use **computer vision** models, mainly **CNNs** like **[DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)**, for high-throughput phenotyping.
+- I'm also passionate about **evolutionary biology**, with a special interest in **environmental adaptation mechanisms**.
 
 ### 🔭 What I'm learning
-- Currently diving into **genomic prediction** and **GxE interaction modeling** with **Deep Neural Networks (DNNs)**.
+- Currently diving into **genomic prediction** and **GxE interaction modeling**.
 
 ### 🌱 Interests
 - **Evolutionary biology**
